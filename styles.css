@@ -1,0 +1,36 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: outfit;
+}
+
+.card {
+    background-color: hsl(0, 0%, 100%);
+    width: 300px;
+    padding: 16px;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 200px;
+}
+
+img {
+    border-radius: 15px;
+    width: 100%;
+}
+
+.text {
+    padding: 0 10px;
+    text-align: center;
+    color: hsl(216, 15%, 48%);
+}
+
+p:first-child {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: hsl(218, 44%, 22%);
+}
+
+
+.attribution {
+    font-size: 11px; text-align: center;
+    color: hsl(228, 45%, 44%);
+}
